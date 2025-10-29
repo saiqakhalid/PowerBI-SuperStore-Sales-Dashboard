@@ -1,6 +1,6 @@
 # 🏬 Super Store Sales Dashboard  
 
-![https://github.com/saiqakhalid/PowerBI-SuperStore-Sales-Dashboard/commit/191630d08316f74b87c31f7f8dd3298ace2829d4](superstore_dashboard.PNG)
+![](superstore_dashboard.PNG)
 
 ## 📘 Overview  
 This Power BI dashboard presents a comprehensive analysis of Super Store sales data obtained from Kaggle.  
