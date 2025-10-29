@@ -1,6 +1,7 @@
 # 🏬 Super Store Sales Dashboard  
 
-![](superstore_dashboard.PNG)
+![Dashboard Screenshot](https://github.com/saiqakhalid/PowerBI-SuperStore-Sales-Dashboard/blob/main/super%20sale%20deshboard.PNG)
+
 
 ## 📘 Overview  
 This Power BI dashboard presents a comprehensive analysis of Super Store sales data obtained from Kaggle.  
@@ -60,20 +61,15 @@ The visualization provides interactive insights into **sales, profit, and quanti
 - Add a **forecasting visual** to predict future sales trends.  
 - Create **drill-through pages** for deeper product-level insights.  
 - Integrate **live data connections** for real-time updates.  
-- Apply **advanced DAX formulas** for enhanced KPI tracking.  
-
----
-
-## 📚 Inspiration  
-The layout and README structure were inspired by [this YouTube tutorial](https://youtu.be/5DUv5Wxl7zM?si=4-l6Gt_zLY1oQRSS).  
-
----
+- Apply **advanced DAX formulas** for enhanced KPI tracking.
+    
+  ---
 
 ## 👩‍💻 Author  
 **Saiqa Khalid**  
 Data Analyst | Power BI Enthusiast  
-📧 F23-1456@student.uoh.edu.pk
-saiqakhalid2012@gmail.com
+📧 F23-1456@student.uoh.edu.pk,
+📧 saiqakhalid2012@gmail.com 
 📍 University of Haripur  
 
 ---
